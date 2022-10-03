@@ -1,4 +1,5 @@
 # code
+
 ```
 sudo pacman -S code
 
