@@ -18,7 +18,10 @@
   "zenMode.hideLineNumbers": false,
   "zenMode.hideTabs": false,
 
-  "window.menuBarVisibility": "toggle",
+  "window.dialogStyle": "custom",
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "classic",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}Code",
 
   "search.showLineNumbers": true,
   "search.searchEditor.reusePriorSearchConfiguration": true,
