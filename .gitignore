@@ -3,10 +3,7 @@
 !/.gitignore
 !/README.md
 
-/User/*
-!/User/
-
-/User/snippets/*
-!/User/snippets/
-!/User/snippets/php.json
-!/User/settings.json
+!/settings.json
+/snippets/*
+!/snippets/
+!/snippets/php.json
