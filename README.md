@@ -35,9 +35,6 @@ code --install-extension ms-python.python
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension ms-vscode.vscode-typescript-next
 
-# PHP
-code --install-extension bmewburn.vscode-intelephense-client
-
 # Database tools
 code --install-extension mtxr.sqltools
 code --install-extension mtxr.sqltools-driver-mysql
