@@ -66,23 +66,4 @@
   "extensions.autoUpdate": "onlyEnabledExtensions",
 
   "dotenv.enableAutocloaking": false
-
-  // "chaliceIcons.showArrows": false,
-  //
-  // "gitlens.codeLens.enabled": false,
-  // "gitlens.plusFeatures.enabled": false,
-  // "gitlens.defaultDateShortFormat": null,
-  // "gitlens.views.commits.avatars": false,
-  // "gitlens.hovers.avatars": false,
-  // "gitlens.blame.avatars": false,
-  // "gitlens.defaultGravatarsStyle": "mp",
-  // "gitlens.views.repositories.avatars": false,
-  // "gitlens.views.fileHistory.avatars": false,
-  // "gitlens.views.lineHistory.avatars": false,
-  // "gitlens.views.branches.avatars": false,
-  // "gitlens.views.remotes.avatars": false,
-  // "gitlens.views.tags.avatars": false,
-  // "gitlens.views.worktrees.avatars": false,
-  // "gitlens.views.contributors.avatars": false,
-  // "gitlens.views.searchAndCompare.avatars": false,
 }
