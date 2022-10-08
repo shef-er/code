@@ -17,6 +17,8 @@ git clone git@github.com:shef-er/code.git ~/.config/Code/User
 
 ## `code --list-extensions`
 
+To install `code --install-extension  <ext-id | path>`
+
 ```shell
 artlaman.chalice-icon-theme
 bmewburn.vscode-intelephense-client
