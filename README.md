@@ -32,6 +32,7 @@ code --install-extension golang.go
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode.vscode-typescript-next
+code --install-extension zobo.php-intellisense
 
 # Database tools
 code --install-extension mtxr.sqltools
