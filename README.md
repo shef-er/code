@@ -35,6 +35,7 @@ code --install-extension ms-vscode.vscode-typescript-next
 # Code formatting
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
+code --install-extension ibm.output-colorizer
 
 # Docker
 code --install-extension ms-azuretools.vscode-docker
