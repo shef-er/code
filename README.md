@@ -24,7 +24,7 @@ code --install-extension monokai.theme-monokai-pro-vscode
 # Russian language pack
 code --install-extension MS-CEINTL.vscode-language-pack-ru
 
-# Code completion
+# Language support and code completion
 code --install-extension christian-kohler.path-intellisense
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension golang.go
