@@ -37,6 +37,10 @@
   "git.inputValidationLength": 200,
 
   "files.autoSave": "onFocusChange",
+  "files.associations": {
+    "*.blade.php": "html",
+    "*.twig": "html"
+  },
 
   "php.suggest.basic": false,
   "php.validate.enable": false,
@@ -66,5 +70,8 @@
 
   "extensions.autoUpdate": "onlyEnabledExtensions",
 
-  "dotenv.enableAutocloaking": false
+  "dotenv.enableAutocloaking": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
