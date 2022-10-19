@@ -10,6 +10,7 @@
   "editor.quickSuggestions": {
     "comments": true
   },
+  "editor.guides.bracketPairs": "active",
 
   "workbench.colorTheme": "Monokai Pro (Filter Machine)",
   "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
