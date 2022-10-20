@@ -21,7 +21,6 @@
 
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
-  "window.menuBarVisibility": "classic",
   "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}Code",
 
   "search.showLineNumbers": true,
@@ -70,5 +69,5 @@
 
   "extensions.autoUpdate": "onlyEnabledExtensions",
 
-  "dotenv.enableAutocloaking": false, 
+  "dotenv.enableAutocloaking": false,
 }
