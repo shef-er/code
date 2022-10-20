@@ -28,6 +28,8 @@ code --install-extension dotenv.dotenv-vscode
 code --install-extension golang.go
 code --install-extension ms-python.python
 code --install-extension ms-vscode.vscode-typescript-next
+code --install-extension redhat.vscode-xml
+code --install-extension redhat.vscode-yaml
 
 # Highlight and format
 code --install-extension EditorConfig.EditorConfig
