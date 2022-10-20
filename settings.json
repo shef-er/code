@@ -21,7 +21,7 @@
 
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
-  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}Code",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
 
   "search.showLineNumbers": true,
   "search.searchEditor.reusePriorSearchConfiguration": true,
@@ -43,8 +43,6 @@
 
   "php.suggest.basic": false,
   "php.validate.enable": false,
-
-  "python.defaultInterpreterPath": "/bin/python",
 
   "github.gitProtocol": "ssh",
 
@@ -70,4 +68,6 @@
   "extensions.autoUpdate": "onlyEnabledExtensions",
 
   "dotenv.enableAutocloaking": false,
+
+  "python.defaultInterpreterPath": "/bin/python"
 }
