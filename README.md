@@ -24,9 +24,6 @@ code --list-extensions
 # Theme
 code --install-extension monokai.theme-monokai-pro-vscode
 
-# Code completion
-code --install-extension christian-kohler.path-intellisense
-code --install-extension christian-kohler.npm-intellisense
 code --install-extension mikestead.dotenv
 code --install-extension redhat.vscode-xml
 code --install-extension redhat.vscode-yaml
@@ -47,6 +44,10 @@ code --install-extension ms-azuretools.vscode-docker
 ## Optional extensions
 
 ```
+# Paths completion
+code --install-extension christian-kohler.path-intellisense
+code --install-extension christian-kohler.npm-intellisense
+
 # Python
 code --install-extension ms-python.python
 
